@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Portfolio](https://github.com/Gonzalo-Barra/Gonzalo-barra.github.io)
 
-- 🌱 I’m currently learning **Typescript, React, Web Scrapping**
+- 🌱 I’m currently learning **Nuxt.JS, TypeScript, Web Scrapping**
 
 - 📫 How to reach me **gonzalobarravalle@gmail.com**
 
