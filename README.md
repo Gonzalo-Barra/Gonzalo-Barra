@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **Nuxt.JS, TypeScript, Web Scrapping**
 
-- 📫 How to reach me **gonzalobarravalle@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
