@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Portfolio](https://github.com/Gonzalo-Barra/Gonzalo-barra.github.io)
 
-- 🌱 I’m currently learning **React, TypeScript, Java**
+- 🌱 I’m currently learning **PHP, SQL, Java, React, TypeScript**
 
 
 
