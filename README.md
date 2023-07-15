@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gonzalo</h1>
 <h3 align="center">A passionate frontend developer from Chile</h3>
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/Gonzalo-Barra/Gonzalo-barra.github.io)
+- 🔭 I’m currently working on [Ejemplo servicio monolítico](https://github.com/Gonzalo-Barra/docker-web-deployment)
 
-- 🌱 I’m currently learning **PHP, SQL, Java, React, TypeScript**
+- 🌱 I’m currently learning **Python, Ansible, Terraform, Docker, K8s**
 
 
 
